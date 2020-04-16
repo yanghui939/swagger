@@ -3,6 +3,7 @@ package com.yh.test;
 public class TestInteger {
     public static void main(String[] args) {
         String s ="";
+        int count = 0;
         Integer a = 1000;
         Integer b = 1000;
         Integer c = 127;
